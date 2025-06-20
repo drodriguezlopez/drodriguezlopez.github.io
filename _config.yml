@@ -1,0 +1,21 @@
+title: <a href="/">David Rodríguez López</a>
+email: david.rodriguezlopez@icloud.com
+description: >-
+  Arquitecto de Soluciones con más de 20 años de experiencia en diseño y desarrollo de arquitecturas
+baseurl: "" # Para un sitio de usuario de GitHub Pages (tuusuario.github.io)
+url: "https://drodriguezlopez.github.io" # Tu URL de GitHub Pages
+repository: drodriguezlopez.github.io # Si tu repo es ese
+
+#theme: minima
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme 
+
+
+# Variables personalizadas (para facilitar el acceso en las plantillas)
+phone: +34 622 003 104
+location: 08921 Santa Coloma de Gramanet (Barcelona)
+
+# Datos del CV para facilitar el acceso en las plantillas
+# Aquí podríamos definir una colección, pero para un CV, variables directas o un _data/cv.yml también funcionan
+# Para este ejemplo, simplificaremos inyectando el contenido directamente en las páginas MD.
