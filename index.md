@@ -24,8 +24,8 @@
 <section id="quick-links">
     <h2>Explora mi CV</h2>
     <ul>
-        <li><a href="{{ "/cv/experience/" | relative_url }}">Experiencia Laboral Detallada</a></li>
-        <li><a href="{{ "/cv/skills/" | relative_url }}">Resumen de Habilidades</a></li>
-        <li><a href="{{ "/cv/technologies/" | relative_url }}">Tecnologías Clave</a></li>
+        <li><a href="{{ "/cv/experience" | relative_url }}">Experiencia Laboral Detallada</a></li>
+        <li><a href="{{ "/cv/skills" | relative_url }}">Resumen de Habilidades</a></li>
+        <li><a href="{{ "/cv/technologies" | relative_url }}">Tecnologías Clave</a></li>
     </ul>
 </section>
